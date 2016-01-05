@@ -1,0 +1,81 @@
+html {
+  height: 100%;
+}
+.cookies {
+  background-color: #3A5795;
+  height: 35px;
+  width: 1865px;
+  margin-top: -15px;
+  margin-left: -10px;
+  margin-right: -10px;
+}
+.cookies p {
+  padding-top: 5px;
+  color: white;
+  text-align: center;
+}
+.titre {
+  margin-top: -21px;
+margin-left: -10px;
+margin-right: auto;
+text-align: center;
+background-color: #00008B;
+height: 82px;
+width: 1865px;
+}
+.titre h1 {
+  color:white;
+  margin-left: -800px;
+  margin-bottom: -2px;
+  font-size: 32px;
+  padding-top: 10px;
+}
+.log {
+  margin-left: 601px;
+  margin-top: -58px;
+}
+.log p {
+  color:white;
+  margin-left: -270px;
+  padding-top: -30px;
+}
+.session {
+  margin-left: 185px;
+  margin-top: 3px;
+}
+.session p {
+  font-size: 15px;
+  color: white;
+  margin-top: -20px;
+  margin-left: 310px;
+}
+.backfont {
+  background-color: #E1E5EF;
+  height:613px;
+  width: 1865px;
+  margin-left: -10px;
+  margin-top: -20px;
+}
+.backfont h2 {
+  color:#191970;
+  margin-left: 430px;
+  padding-top: 52px;
+
+}
+.flotg {
+  height: 174px;
+  width: 506px;
+  background-image: url(https://static.xx.fbcdn.net/rsrc.php/v2/yx/r/pyNVUg5EM0j.png);
+margin-bottom: 100px;
+margin-left: 436px;
+}
+.flotd {
+  margin-left: 1016px;
+  margin-top: -380px;
+  font-size: 24px;
+}
+.flotd p{
+  margin-top: -20px;
+  font-size: 20px;
+
+}
